@@ -1,5 +1,5 @@
 # Text_To_Image_Generation
-Building an application that generate Image from Text using Stable Diffusion, Tkinter and PyTorch CUDA.
+Building an application that generate Image from Text to facilitate data augmentation, and assist in creative design tasks using Stable Diffusion, Tkinter and PyTorch CUDA.
 
 ## Installation
 First you should install **cuda** in this website : https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64&target_version=11&target_type=exe_network
